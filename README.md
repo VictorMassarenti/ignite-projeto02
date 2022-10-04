@@ -1,1 +1,1 @@
-# ignite-projeto02
+Tecnologias usadas no projeto:
